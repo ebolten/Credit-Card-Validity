@@ -1,21 +1,4 @@
 /*
- * Class: CMSC201 
- * Instructor: Grinberg
- * Description: This program checks if a credit card number is valid
- * Due: 03/02/2019
- * I pledge that I have completed the programming assignment independently.
-   I have not copied the code from a student or any source.
-   I have not given my code to any student.
-   Print your Name here: Emily Bolten
-*/
-/*
-*List of inputs for the program:
-*1. Credit card number
-
-*List of output for the program:
-*1. Whether the credit card is valid or not
-*/
-/*
 *Pseudocode for Program:
 *1. Import Scanner and Math packages, create public class CreditCardValidity and main method
 *2. Create InputData() method to get user's data
